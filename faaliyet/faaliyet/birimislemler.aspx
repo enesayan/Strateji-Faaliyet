@@ -17,6 +17,7 @@
             var mesaj="";
             $("#KKU_PanelProsesVeriler input").each(function (i, e) {
                 mesaj += e.value + ";";
+                alert("Nasılsın");
             });
    
             var hidden = document.getElementById('KKU_Hidden');
