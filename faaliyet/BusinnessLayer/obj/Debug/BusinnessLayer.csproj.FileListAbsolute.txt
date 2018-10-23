@@ -1,0 +1,27 @@
+C:\Users\DELL\Desktop\faaliyet\BusinnessLayer\bin\Debug\BusinnessLayer.dll
+C:\Users\DELL\Desktop\faaliyet\BusinnessLayer\bin\Debug\BusinnessLayer.pdb
+C:\Users\DELL\Desktop\faaliyet\BusinnessLayer\bin\Debug\Container.dll
+C:\Users\DELL\Desktop\faaliyet\BusinnessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\DELL\Desktop\faaliyet\BusinnessLayer\bin\Debug\Container.pdb
+C:\Users\DELL\Desktop\faaliyet\BusinnessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\DELL\Desktop\faaliyet\BusinnessLayer\obj\Debug\BusinnessLayer.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Desktop\faaliyet\BusinnessLayer\obj\Debug\BusinnessLayer.dll
+C:\Users\DELL\Desktop\faaliyet\BusinnessLayer\obj\Debug\BusinnessLayer.pdb
+D:\Strateji\faaliyet\BusinnessLayer\bin\Debug\BusinnessLayer.dll
+D:\Strateji\faaliyet\BusinnessLayer\bin\Debug\BusinnessLayer.pdb
+D:\Strateji\faaliyet\BusinnessLayer\bin\Debug\Container.dll
+D:\Strateji\faaliyet\BusinnessLayer\bin\Debug\DataAccessLayer.dll
+D:\Strateji\faaliyet\BusinnessLayer\bin\Debug\Container.pdb
+D:\Strateji\faaliyet\BusinnessLayer\bin\Debug\DataAccessLayer.pdb
+D:\Strateji\faaliyet\BusinnessLayer\obj\Debug\BusinnessLayer.csprojResolveAssemblyReference.cache
+D:\Strateji\faaliyet\BusinnessLayer\obj\Debug\BusinnessLayer.dll
+D:\Strateji\faaliyet\BusinnessLayer\obj\Debug\BusinnessLayer.pdb
+C:\Users\enes\Google Drive\Strateji\faaliyet_yeni\BusinnessLayer\bin\Debug\BusinnessLayer.dll
+C:\Users\enes\Google Drive\Strateji\faaliyet_yeni\BusinnessLayer\bin\Debug\BusinnessLayer.pdb
+C:\Users\enes\Google Drive\Strateji\faaliyet_yeni\BusinnessLayer\bin\Debug\Container.dll
+C:\Users\enes\Google Drive\Strateji\faaliyet_yeni\BusinnessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\enes\Google Drive\Strateji\faaliyet_yeni\BusinnessLayer\bin\Debug\Container.pdb
+C:\Users\enes\Google Drive\Strateji\faaliyet_yeni\BusinnessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\enes\Google Drive\Strateji\faaliyet_yeni\BusinnessLayer\obj\Debug\BusinnessLayer.csprojResolveAssemblyReference.cache
+C:\Users\enes\Google Drive\Strateji\faaliyet_yeni\BusinnessLayer\obj\Debug\BusinnessLayer.dll
+C:\Users\enes\Google Drive\Strateji\faaliyet_yeni\BusinnessLayer\obj\Debug\BusinnessLayer.pdb

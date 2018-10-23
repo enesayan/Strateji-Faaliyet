@@ -1,0 +1,21 @@
+C:\Users\DELL\Desktop\faaliyet\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\DELL\Desktop\faaliyet\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\DELL\Desktop\faaliyet\DataAccessLayer\bin\Debug\Container.dll
+C:\Users\DELL\Desktop\faaliyet\DataAccessLayer\bin\Debug\Container.pdb
+C:\Users\DELL\Desktop\faaliyet\DataAccessLayer\obj\Debug\DataAccessLayer.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Desktop\faaliyet\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\DELL\Desktop\faaliyet\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+D:\Strateji\faaliyet\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+D:\Strateji\faaliyet\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+D:\Strateji\faaliyet\DataAccessLayer\bin\Debug\Container.dll
+D:\Strateji\faaliyet\DataAccessLayer\bin\Debug\Container.pdb
+D:\Strateji\faaliyet\DataAccessLayer\obj\Debug\DataAccessLayer.csprojResolveAssemblyReference.cache
+D:\Strateji\faaliyet\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+D:\Strateji\faaliyet\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+C:\Users\enes\Google Drive\Strateji\faaliyet_yeni\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\enes\Google Drive\Strateji\faaliyet_yeni\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\enes\Google Drive\Strateji\faaliyet_yeni\DataAccessLayer\bin\Debug\Container.dll
+C:\Users\enes\Google Drive\Strateji\faaliyet_yeni\DataAccessLayer\bin\Debug\Container.pdb
+C:\Users\enes\Google Drive\Strateji\faaliyet_yeni\DataAccessLayer\obj\Debug\DataAccessLayer.csprojResolveAssemblyReference.cache
+C:\Users\enes\Google Drive\Strateji\faaliyet_yeni\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\enes\Google Drive\Strateji\faaliyet_yeni\DataAccessLayer\obj\Debug\DataAccessLayer.pdb

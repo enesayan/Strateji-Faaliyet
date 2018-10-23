@@ -1,0 +1,8 @@
+D:\Strateji\faaliyet\Container\bin\Release\Container.dll
+D:\Strateji\faaliyet\Container\bin\Release\Container.pdb
+D:\Strateji\faaliyet\Container\obj\Release\Container.dll
+D:\Strateji\faaliyet\Container\obj\Release\Container.pdb
+C:\Users\DELL\Desktop\faaliyet\Container\bin\Release\Container.dll
+C:\Users\DELL\Desktop\faaliyet\Container\bin\Release\Container.pdb
+C:\Users\DELL\Desktop\faaliyet\Container\obj\Release\Container.dll
+C:\Users\DELL\Desktop\faaliyet\Container\obj\Release\Container.pdb

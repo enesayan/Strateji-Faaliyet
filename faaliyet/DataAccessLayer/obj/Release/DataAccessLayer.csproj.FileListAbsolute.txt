@@ -1,0 +1,14 @@
+D:\Strateji\faaliyet\DataAccessLayer\bin\Release\DataAccessLayer.dll
+D:\Strateji\faaliyet\DataAccessLayer\bin\Release\DataAccessLayer.pdb
+D:\Strateji\faaliyet\DataAccessLayer\bin\Release\Container.dll
+D:\Strateji\faaliyet\DataAccessLayer\bin\Release\Container.pdb
+D:\Strateji\faaliyet\DataAccessLayer\obj\Release\DataAccessLayer.csprojResolveAssemblyReference.cache
+D:\Strateji\faaliyet\DataAccessLayer\obj\Release\DataAccessLayer.dll
+D:\Strateji\faaliyet\DataAccessLayer\obj\Release\DataAccessLayer.pdb
+C:\Users\DELL\Desktop\faaliyet\DataAccessLayer\bin\Release\DataAccessLayer.dll
+C:\Users\DELL\Desktop\faaliyet\DataAccessLayer\bin\Release\DataAccessLayer.pdb
+C:\Users\DELL\Desktop\faaliyet\DataAccessLayer\bin\Release\Container.dll
+C:\Users\DELL\Desktop\faaliyet\DataAccessLayer\bin\Release\Container.pdb
+C:\Users\DELL\Desktop\faaliyet\DataAccessLayer\obj\Release\DataAccessLayer.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Desktop\faaliyet\DataAccessLayer\obj\Release\DataAccessLayer.dll
+C:\Users\DELL\Desktop\faaliyet\DataAccessLayer\obj\Release\DataAccessLayer.pdb

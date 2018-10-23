@@ -1,0 +1,15 @@
+C:\Users\DELL\Desktop\faaliyet\Container\bin\Debug\Container.dll
+C:\Users\DELL\Desktop\faaliyet\Container\bin\Debug\Container.pdb
+C:\Users\DELL\Desktop\faaliyet\Container\obj\Debug\Container.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Desktop\faaliyet\Container\obj\Debug\Container.dll
+C:\Users\DELL\Desktop\faaliyet\Container\obj\Debug\Container.pdb
+D:\Strateji\faaliyet\Container\bin\Debug\Container.dll
+D:\Strateji\faaliyet\Container\bin\Debug\Container.pdb
+D:\Strateji\faaliyet\Container\obj\Debug\Container.csprojResolveAssemblyReference.cache
+D:\Strateji\faaliyet\Container\obj\Debug\Container.dll
+D:\Strateji\faaliyet\Container\obj\Debug\Container.pdb
+C:\Users\enes\Google Drive\Strateji\faaliyet_yeni\Container\bin\Debug\Container.dll
+C:\Users\enes\Google Drive\Strateji\faaliyet_yeni\Container\bin\Debug\Container.pdb
+C:\Users\enes\Google Drive\Strateji\faaliyet_yeni\Container\obj\Debug\Container.csprojResolveAssemblyReference.cache
+C:\Users\enes\Google Drive\Strateji\faaliyet_yeni\Container\obj\Debug\Container.dll
+C:\Users\enes\Google Drive\Strateji\faaliyet_yeni\Container\obj\Debug\Container.pdb

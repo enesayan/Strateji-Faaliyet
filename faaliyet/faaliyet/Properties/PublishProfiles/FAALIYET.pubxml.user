@@ -1,0 +1,506 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <LastUsedBuildConfiguration>Release</LastUsedBuildConfiguration>
+    <LastUsedPlatform>Any CPU</LastUsedPlatform>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="assets/css/bootstrap.css">
+      <publishTime>10/10/2018 06:40:22</publishTime>
+    </File>
+    <File Include="assets/css/bootstrap.min.css">
+      <publishTime>07/13/2016 02:04:04</publishTime>
+    </File>
+    <File Include="assets/css/demo.css">
+      <publishTime>07/25/2016 07:45:46</publishTime>
+    </File>
+    <File Include="assets/css/font-awesome.min.css">
+      <publishTime>11/04/2013 23:07:14</publishTime>
+    </File>
+    <File Include="assets/css/hoverex-all.css">
+      <publishTime>01/24/2014 08:09:20</publishTime>
+    </File>
+    <File Include="assets/css/images/.DS_Store">
+      <publishTime>04/20/2014 20:31:56</publishTime>
+    </File>
+    <File Include="assets/css/images/prettyPhoto/.DS_Store">
+      <publishTime>02/20/2014 11:47:22</publishTime>
+    </File>
+    <File Include="assets/css/images/prettyPhoto/dark_rounded/btnNext.png">
+      <publishTime>01/24/2014 08:09:30</publishTime>
+    </File>
+    <File Include="assets/css/images/prettyPhoto/dark_rounded/btnPrevious.png">
+      <publishTime>01/24/2014 08:09:30</publishTime>
+    </File>
+    <File Include="assets/css/images/prettyPhoto/dark_rounded/contentPattern.png">
+      <publishTime>01/24/2014 08:09:32</publishTime>
+    </File>
+    <File Include="assets/css/images/prettyPhoto/dark_rounded/loader.gif">
+      <publishTime>01/24/2014 08:09:32</publishTime>
+    </File>
+    <File Include="assets/css/images/prettyPhoto/dark_rounded/sprite.png">
+      <publishTime>01/24/2014 08:09:32</publishTime>
+    </File>
+    <File Include="assets/css/images/prettyPhoto/dark_square/btnNext.png">
+      <publishTime>01/24/2014 08:09:34</publishTime>
+    </File>
+    <File Include="assets/css/images/prettyPhoto/dark_square/btnPrevious.png">
+      <publishTime>01/24/2014 08:09:34</publishTime>
+    </File>
+    <File Include="assets/css/images/prettyPhoto/dark_square/loader.gif">
+      <publishTime>01/24/2014 08:09:36</publishTime>
+    </File>
+    <File Include="assets/css/images/prettyPhoto/dark_square/sprite.png">
+      <publishTime>01/24/2014 08:09:36</publishTime>
+    </File>
+    <File Include="assets/css/images/prettyPhoto/default/default_thumb.png">
+      <publishTime>01/24/2014 08:09:38</publishTime>
+    </File>
+    <File Include="assets/css/images/prettyPhoto/default/loader.gif">
+      <publishTime>01/24/2014 08:09:38</publishTime>
+    </File>
+    <File Include="assets/css/images/prettyPhoto/default/sprite.png">
+      <publishTime>01/24/2014 08:09:40</publishTime>
+    </File>
+    <File Include="assets/css/images/prettyPhoto/default/sprite_next.png">
+      <publishTime>01/24/2014 08:09:40</publishTime>
+    </File>
+    <File Include="assets/css/images/prettyPhoto/default/sprite_prev.png">
+      <publishTime>01/24/2014 08:09:40</publishTime>
+    </File>
+    <File Include="assets/css/images/prettyPhoto/default/sprite_x.png">
+      <publishTime>01/24/2014 08:09:40</publishTime>
+    </File>
+    <File Include="assets/css/images/prettyPhoto/default/sprite_y.png">
+      <publishTime>01/24/2014 08:09:40</publishTime>
+    </File>
+    <File Include="assets/css/images/prettyPhoto/facebook/btnNext.png">
+      <publishTime>01/24/2014 08:09:42</publishTime>
+    </File>
+    <File Include="assets/css/images/prettyPhoto/facebook/btnPrevious.png">
+      <publishTime>01/24/2014 08:09:42</publishTime>
+    </File>
+    <File Include="assets/css/images/prettyPhoto/facebook/contentPatternBottom.png">
+      <publishTime>01/24/2014 08:09:44</publishTime>
+    </File>
+    <File Include="assets/css/images/prettyPhoto/facebook/contentPatternLeft.png">
+      <publishTime>01/24/2014 08:09:44</publishTime>
+    </File>
+    <File Include="assets/css/images/prettyPhoto/facebook/contentPatternRight.png">
+      <publishTime>01/24/2014 08:09:44</publishTime>
+    </File>
+    <File Include="assets/css/images/prettyPhoto/facebook/contentPatternTop.png">
+      <publishTime>01/24/2014 08:09:44</publishTime>
+    </File>
+    <File Include="assets/css/images/prettyPhoto/facebook/default_thumbnail.gif">
+      <publishTime>01/24/2014 08:09:44</publishTime>
+    </File>
+    <File Include="assets/css/images/prettyPhoto/facebook/loader.gif">
+      <publishTime>01/24/2014 08:09:44</publishTime>
+    </File>
+    <File Include="assets/css/images/prettyPhoto/facebook/sprite.png">
+      <publishTime>01/24/2014 08:09:46</publishTime>
+    </File>
+    <File Include="assets/css/images/prettyPhoto/light_rounded/btnNext.png">
+      <publishTime>01/24/2014 08:09:46</publishTime>
+    </File>
+    <File Include="assets/css/images/prettyPhoto/light_rounded/btnPrevious.png">
+      <publishTime>01/24/2014 08:09:46</publishTime>
+    </File>
+    <File Include="assets/css/images/prettyPhoto/light_rounded/loader.gif">
+      <publishTime>01/24/2014 08:09:48</publishTime>
+    </File>
+    <File Include="assets/css/images/prettyPhoto/light_rounded/sprite.png">
+      <publishTime>01/24/2014 08:09:48</publishTime>
+    </File>
+    <File Include="assets/css/images/prettyPhoto/light_square/btnNext.png">
+      <publishTime>01/24/2014 08:09:50</publishTime>
+    </File>
+    <File Include="assets/css/images/prettyPhoto/light_square/btnPrevious.png">
+      <publishTime>01/24/2014 08:09:50</publishTime>
+    </File>
+    <File Include="assets/css/images/prettyPhoto/light_square/sprite.png">
+      <publishTime>01/24/2014 08:09:52</publishTime>
+    </File>
+    <File Include="assets/css/material-kit.css">
+      <publishTime>09/22/2018 12:20:10</publishTime>
+    </File>
+    <File Include="assets/css/material-kit.css.map">
+      <publishTime>07/13/2016 02:04:04</publishTime>
+    </File>
+    <File Include="assets/css/prettyPhoto.css">
+      <publishTime>01/24/2014 08:09:22</publishTime>
+    </File>
+    <File Include="assets/css/style.css">
+      <publishTime>09/23/2018 04:34:20</publishTime>
+    </File>
+    <File Include="assets/fonts/fontawesome-webfont.eot">
+      <publishTime>11/04/2013 23:07:12</publishTime>
+    </File>
+    <File Include="assets/fonts/fontawesome-webfont.svg">
+      <publishTime>11/04/2013 23:07:12</publishTime>
+    </File>
+    <File Include="assets/fonts/fontawesome-webfont.ttf">
+      <publishTime>11/04/2013 23:07:12</publishTime>
+    </File>
+    <File Include="assets/fonts/fontawesome-webfont.woff">
+      <publishTime>11/04/2013 23:07:12</publishTime>
+    </File>
+    <File Include="assets/fonts/FontAwesome.otf">
+      <publishTime>11/04/2013 23:07:12</publishTime>
+    </File>
+    <File Include="assets/fonts/glyphicons-halflings-regular.eot">
+      <publishTime>02/13/2014 00:24:58</publishTime>
+    </File>
+    <File Include="assets/fonts/glyphicons-halflings-regular.svg">
+      <publishTime>02/13/2014 00:24:58</publishTime>
+    </File>
+    <File Include="assets/fonts/glyphicons-halflings-regular.ttf">
+      <publishTime>02/13/2014 00:24:58</publishTime>
+    </File>
+    <File Include="assets/fonts/glyphicons-halflings-regular.woff">
+      <publishTime>02/13/2014 00:24:58</publishTime>
+    </File>
+    <File Include="assets/img/.DS_Store">
+      <publishTime>04/21/2014 14:48:46</publishTime>
+    </File>
+    <File Include="assets/img/browser.png">
+      <publishTime>04/21/2014 04:49:54</publishTime>
+    </File>
+    <File Include="assets/img/city.jpg">
+      <publishTime>03/15/2016 08:55:00</publishTime>
+    </File>
+    <File Include="assets/img/clients/client01 - Kopya.png">
+      <publishTime>12/04/2013 04:21:12</publishTime>
+    </File>
+    <File Include="assets/img/clients/client01.png">
+      <publishTime>05/25/2016 03:26:56</publishTime>
+    </File>
+    <File Include="assets/img/clients/client02.png">
+      <publishTime>05/25/2016 03:27:50</publishTime>
+    </File>
+    <File Include="assets/img/clients/client03 - Kopya.png">
+      <publishTime>12/04/2013 04:21:24</publishTime>
+    </File>
+    <File Include="assets/img/clients/client03.png">
+      <publishTime>05/25/2016 03:28:42</publishTime>
+    </File>
+    <File Include="assets/img/clients/client04.png">
+      <publishTime>05/25/2016 03:29:42</publishTime>
+    </File>
+    <File Include="assets/img/contact.jpg">
+      <publishTime>04/21/2014 01:08:40</publishTime>
+    </File>
+    <File Include="assets/img/kku.jpeg">
+      <publishTime>07/21/2016 01:53:06</publishTime>
+    </File>
+    <File Include="assets/img/portfolio/.DS_Store">
+      <publishTime>04/20/2014 23:35:04</publishTime>
+    </File>
+    <File Include="assets/img/portfolio/portfolio_01.jpg">
+      <publishTime>04/20/2014 13:29:54</publishTime>
+    </File>
+    <File Include="assets/img/portfolio/portfolio_02.jpg">
+      <publishTime>04/20/2014 13:11:22</publishTime>
+    </File>
+    <File Include="assets/img/portfolio/portfolio_03.jpg">
+      <publishTime>04/20/2014 13:28:10</publishTime>
+    </File>
+    <File Include="assets/img/portfolio/portfolio_04.jpg">
+      <publishTime>04/20/2014 13:27:10</publishTime>
+    </File>
+    <File Include="assets/img/portfolio/portfolio_05.jpg">
+      <publishTime>04/20/2014 13:36:52</publishTime>
+    </File>
+    <File Include="assets/img/portfolio/portfolio_06.jpg">
+      <publishTime>04/20/2014 13:29:06</publishTime>
+    </File>
+    <File Include="assets/img/portfolio/portfolio_07.jpg">
+      <publishTime>04/20/2014 13:27:46</publishTime>
+    </File>
+    <File Include="assets/img/portfolio/portfolio_08.jpg">
+      <publishTime>04/20/2014 13:29:30</publishTime>
+    </File>
+    <File Include="assets/img/portfolio/portfolio_09.jpg">
+      <publishTime>04/20/2014 13:31:38</publishTime>
+    </File>
+    <File Include="assets/img/portfolio/portfolio_10.jpg">
+      <publishTime>04/20/2014 13:28:40</publishTime>
+    </File>
+    <File Include="assets/img/portfolio/single01.jpg">
+      <publishTime>04/21/2014 04:25:12</publishTime>
+    </File>
+    <File Include="assets/img/portfolio/single02.jpg">
+      <publishTime>04/21/2014 04:27:30</publishTime>
+    </File>
+    <File Include="assets/img/portfolio/single03.jpg">
+      <publishTime>04/21/2014 04:28:10</publishTime>
+    </File>
+    <File Include="assets/img/post01.jpg">
+      <publishTime>04/21/2014 01:33:32</publishTime>
+    </File>
+    <File Include="assets/img/post02.jpg">
+      <publishTime>04/21/2014 02:47:42</publishTime>
+    </File>
+    <File Include="assets/img/post03.jpg">
+      <publishTime>04/21/2014 02:52:34</publishTime>
+    </File>
+    <File Include="assets/img/process_img/bolum_ekle.jpg">
+      <publishTime>05/25/2016 03:39:10</publishTime>
+    </File>
+    <File Include="assets/img/process_img/ders_ekle.jpg">
+      <publishTime>05/25/2016 05:43:26</publishTime>
+    </File>
+    <File Include="assets/img/process_img/fakulte_ekle.jpg">
+      <publishTime>05/25/2016 03:12:40</publishTime>
+    </File>
+    <File Include="assets/img/process_img/gozetmen.jpg">
+      <publishTime>05/25/2016 03:49:58</publishTime>
+    </File>
+    <File Include="assets/img/process_img/personel.jpg">
+      <publishTime>05/25/2016 03:47:36</publishTime>
+    </File>
+    <File Include="assets/img/process_img/sinav_ekle.jpg">
+      <publishTime>08/05/2016 06:20:56</publishTime>
+    </File>
+    <File Include="assets/img/process_img/sinif_ekle.jpg">
+      <publishTime>05/25/2016 05:51:28</publishTime>
+    </File>
+    <File Include="assets/img/sinav.jpg">
+      <publishTime>05/25/2016 02:37:14</publishTime>
+    </File>
+    <File Include="assets/img/t-back.jpg">
+      <publishTime>04/20/2014 15:27:12</publishTime>
+    </File>
+    <File Include="assets/img/thumb01.jpg">
+      <publishTime>04/21/2014 03:25:20</publishTime>
+    </File>
+    <File Include="assets/img/thumb02.jpg">
+      <publishTime>04/21/2014 03:26:28</publishTime>
+    </File>
+    <File Include="assets/img/thumb03.jpg">
+      <publishTime>04/21/2014 03:27:34</publishTime>
+    </File>
+    <File Include="assets/img/thumb04.jpg">
+      <publishTime>04/21/2014 03:28:30</publishTime>
+    </File>
+    <File Include="assets/js/.DS_Store">
+      <publishTime>04/20/2014 20:52:12</publishTime>
+    </File>
+    <File Include="assets/js/bootstrap-datepicker.js">
+      <publishTime>07/09/2016 10:11:42</publishTime>
+    </File>
+    <File Include="assets/js/bootstrap.min.js">
+      <publishTime>02/13/2014 00:24:58</publishTime>
+    </File>
+    <File Include="assets/js/custom.js">
+      <publishTime>04/20/2014 10:53:50</publishTime>
+    </File>
+    <File Include="assets/js/jquery.hoverdir.js">
+      <publishTime>01/24/2014 08:12:30</publishTime>
+    </File>
+    <File Include="assets/js/jquery.hoverex.min.js">
+      <publishTime>01/24/2014 08:12:30</publishTime>
+    </File>
+    <File Include="assets/js/jquery.isotope.min.js">
+      <publishTime>01/24/2014 08:12:30</publishTime>
+    </File>
+    <File Include="assets/js/jquery.prettyPhoto.js">
+      <publishTime>01/24/2014 08:12:32</publishTime>
+    </File>
+    <File Include="assets/js/material-kit.js">
+      <publishTime>07/13/2016 02:10:26</publishTime>
+    </File>
+    <File Include="assets/js/material.min.js">
+      <publishTime>03/12/2016 06:37:02</publishTime>
+    </File>
+    <File Include="assets/js/nouislider.min.js">
+      <publishTime>02/24/2016 10:00:36</publishTime>
+    </File>
+    <File Include="assets/js/retina-1.1.0.js">
+      <publishTime>01/24/2014 08:12:34</publishTime>
+    </File>
+    <File Include="assets/sass/.DS_Store">
+      <publishTime>07/21/2016 13:48:08</publishTime>
+    </File>
+    <File Include="assets/sass/material-kit.scss">
+      <publishTime>07/21/2016 03:48:08</publishTime>
+    </File>
+    <File Include="assets/sass/material-kit/.DS_Store">
+      <publishTime>07/21/2016 13:48:08</publishTime>
+    </File>
+    <File Include="assets/sass/material-kit/plugins/_plugin-datepicker.scss">
+      <publishTime>07/21/2016 03:48:08</publishTime>
+    </File>
+    <File Include="assets/sass/material-kit/plugins/_plugin-dropdownjs.scss">
+      <publishTime>07/21/2016 03:48:08</publishTime>
+    </File>
+    <File Include="assets/sass/material-kit/plugins/_plugin-nouislider.scss">
+      <publishTime>07/21/2016 03:48:08</publishTime>
+    </File>
+    <File Include="assets/sass/material-kit/plugins/_plugin-selectize.scss">
+      <publishTime>07/21/2016 03:48:08</publishTime>
+    </File>
+    <File Include="assets/sass/material-kit/plugins/_plugin-snackbarjs.scss">
+      <publishTime>07/21/2016 03:48:08</publishTime>
+    </File>
+    <File Include="assets/sass/material-kit/_alerts.scss">
+      <publishTime>07/21/2016 03:48:08</publishTime>
+    </File>
+    <File Include="assets/sass/material-kit/_buttons.scss">
+      <publishTime>07/21/2016 03:48:08</publishTime>
+    </File>
+    <File Include="assets/sass/material-kit/_cards.scss">
+      <publishTime>07/21/2016 03:48:08</publishTime>
+    </File>
+    <File Include="assets/sass/material-kit/_carousel.scss">
+      <publishTime>07/21/2016 03:48:08</publishTime>
+    </File>
+    <File Include="assets/sass/material-kit/_checkboxes.scss">
+      <publishTime>07/21/2016 03:48:08</publishTime>
+    </File>
+    <File Include="assets/sass/material-kit/_colors.scss">
+      <publishTime>07/21/2016 03:48:08</publishTime>
+    </File>
+    <File Include="assets/sass/material-kit/_core.scss">
+      <publishTime>07/21/2016 03:48:08</publishTime>
+    </File>
+    <File Include="assets/sass/material-kit/_dialogs.scss">
+      <publishTime>07/21/2016 03:48:08</publishTime>
+    </File>
+    <File Include="assets/sass/material-kit/_dividers.scss">
+      <publishTime>07/21/2016 03:48:08</publishTime>
+    </File>
+    <File Include="assets/sass/material-kit/_dropdown.scss">
+      <publishTime>07/21/2016 03:48:08</publishTime>
+    </File>
+    <File Include="assets/sass/material-kit/_example-pages.scss">
+      <publishTime>07/21/2016 03:48:08</publishTime>
+    </File>
+    <File Include="assets/sass/material-kit/_footers.scss">
+      <publishTime>07/21/2016 03:48:08</publishTime>
+    </File>
+    <File Include="assets/sass/material-kit/_form.scss">
+      <publishTime>07/21/2016 03:48:08</publishTime>
+    </File>
+    <File Include="assets/sass/material-kit/_images.scss">
+      <publishTime>07/21/2016 03:48:08</publishTime>
+    </File>
+    <File Include="assets/sass/material-kit/_import-bs-less.scss">
+      <publishTime>07/21/2016 03:48:08</publishTime>
+    </File>
+    <File Include="assets/sass/material-kit/_import-bs-sass.scss">
+      <publishTime>07/21/2016 03:48:08</publishTime>
+    </File>
+    <File Include="assets/sass/material-kit/_info-areas.scss">
+      <publishTime>07/21/2016 03:48:08</publishTime>
+    </File>
+    <File Include="assets/sass/material-kit/_inputs-size.scss">
+      <publishTime>07/21/2016 03:48:08</publishTime>
+    </File>
+    <File Include="assets/sass/material-kit/_inputs.scss">
+      <publishTime>07/21/2016 03:48:08</publishTime>
+    </File>
+    <File Include="assets/sass/material-kit/_labels.scss">
+      <publishTime>07/21/2016 03:48:08</publishTime>
+    </File>
+    <File Include="assets/sass/material-kit/_lists.scss">
+      <publishTime>07/21/2016 03:48:08</publishTime>
+    </File>
+    <File Include="assets/sass/material-kit/_mixins.scss">
+      <publishTime>07/21/2016 03:48:08</publishTime>
+    </File>
+    <File Include="assets/sass/material-kit/_navbar.scss">
+      <publishTime>07/21/2016 03:48:08</publishTime>
+    </File>
+    <File Include="assets/sass/material-kit/_pagination.scss">
+      <publishTime>07/21/2016 03:48:08</publishTime>
+    </File>
+    <File Include="assets/sass/material-kit/_panels.scss">
+      <publishTime>07/21/2016 03:48:08</publishTime>
+    </File>
+    <File Include="assets/sass/material-kit/_pills.scss">
+      <publishTime>07/21/2016 03:48:08</publishTime>
+    </File>
+    <File Include="assets/sass/material-kit/_popups.scss">
+      <publishTime>07/21/2016 03:48:08</publishTime>
+    </File>
+    <File Include="assets/sass/material-kit/_progress.scss">
+      <publishTime>07/21/2016 03:48:08</publishTime>
+    </File>
+    <File Include="assets/sass/material-kit/_radios.scss">
+      <publishTime>07/21/2016 03:48:08</publishTime>
+    </File>
+    <File Include="assets/sass/material-kit/_ripples.scss">
+      <publishTime>07/21/2016 03:48:08</publishTime>
+    </File>
+    <File Include="assets/sass/material-kit/_sections.scss">
+      <publishTime>07/21/2016 03:48:08</publishTime>
+    </File>
+    <File Include="assets/sass/material-kit/_shadows.scss">
+      <publishTime>07/21/2016 03:48:08</publishTime>
+    </File>
+    <File Include="assets/sass/material-kit/_tabs.scss">
+      <publishTime>07/21/2016 03:48:08</publishTime>
+    </File>
+    <File Include="assets/sass/material-kit/_togglebutton.scss">
+      <publishTime>07/21/2016 03:48:08</publishTime>
+    </File>
+    <File Include="assets/sass/material-kit/_typography.scss">
+      <publishTime>07/21/2016 03:48:08</publishTime>
+    </File>
+    <File Include="assets/sass/material-kit/_variables.scss">
+      <publishTime>07/21/2016 03:48:08</publishTime>
+    </File>
+    <File Include="assets/sass/material-kit/_variables_bootstrap.scss">
+      <publishTime>07/21/2016 03:48:08</publishTime>
+    </File>
+    <File Include="assets/sass/material-kit/_welljumbo.scss">
+      <publishTime>07/21/2016 03:48:08</publishTime>
+    </File>
+    <File Include="bin/AjaxControlToolkit.dll">
+      <publishTime>06/08/2013 20:27:50</publishTime>
+    </File>
+    <File Include="bin/BusinnessLayer.dll">
+      <publishTime>10/16/2018 09:40:40</publishTime>
+    </File>
+    <File Include="bin/Container.dll">
+      <publishTime>10/16/2018 09:40:40</publishTime>
+    </File>
+    <File Include="bin/DataAccessLayer.dll">
+      <publishTime>10/16/2018 09:40:40</publishTime>
+    </File>
+    <File Include="bin/faaliyet.dll">
+      <publishTime>10/16/2018 15:08:24</publishTime>
+    </File>
+    <File Include="birimislemler.aspx">
+      <publishTime>10/14/2018 14:11:10</publishTime>
+    </File>
+    <File Include="default.aspx">
+      <publishTime>10/14/2018 13:42:56</publishTime>
+    </File>
+    <File Include="FaaliyetMasterPage.Master">
+      <publishTime>10/16/2018 13:24:15</publishTime>
+    </File>
+    <File Include="islemler.aspx">
+      <publishTime>10/10/2018 09:57:08</publishTime>
+    </File>
+    <File Include="login.aspx">
+      <publishTime>10/14/2018 13:35:56</publishTime>
+    </File>
+    <File Include="test.aspx">
+      <publishTime>10/13/2018 07:35:46</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>10/16/2018 15:08:44</publishTime>
+    </File>
+    <File Include="yonetim.aspx">
+      <publishTime>09/22/2018 12:25:34</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

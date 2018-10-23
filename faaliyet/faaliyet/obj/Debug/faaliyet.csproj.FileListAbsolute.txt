@@ -1,0 +1,35 @@
+C:\Users\DELL\Desktop\faaliyet\faaliyet\bin\faaliyet.dll
+C:\Users\DELL\Desktop\faaliyet\faaliyet\bin\faaliyet.pdb
+C:\Users\DELL\Desktop\faaliyet\faaliyet\obj\Debug\faaliyet.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Desktop\faaliyet\faaliyet\obj\Debug\faaliyet.dll
+C:\Users\DELL\Desktop\faaliyet\faaliyet\obj\Debug\faaliyet.pdb
+C:\Users\DELL\Desktop\faaliyet\faaliyet\bin\BusinnessLayer.dll
+C:\Users\DELL\Desktop\faaliyet\faaliyet\bin\Container.dll
+C:\Users\DELL\Desktop\faaliyet\faaliyet\bin\DataAccessLayer.dll
+C:\Users\DELL\Desktop\faaliyet\faaliyet\bin\BusinnessLayer.pdb
+C:\Users\DELL\Desktop\faaliyet\faaliyet\bin\Container.pdb
+C:\Users\DELL\Desktop\faaliyet\faaliyet\bin\DataAccessLayer.pdb
+D:\Strateji\faaliyet\faaliyet\bin\faaliyet.dll.config
+D:\Strateji\faaliyet\faaliyet\bin\faaliyet.dll
+D:\Strateji\faaliyet\faaliyet\bin\faaliyet.pdb
+D:\Strateji\faaliyet\faaliyet\bin\BusinnessLayer.dll
+D:\Strateji\faaliyet\faaliyet\bin\Container.dll
+D:\Strateji\faaliyet\faaliyet\bin\DataAccessLayer.dll
+D:\Strateji\faaliyet\faaliyet\bin\BusinnessLayer.pdb
+D:\Strateji\faaliyet\faaliyet\bin\Container.pdb
+D:\Strateji\faaliyet\faaliyet\bin\DataAccessLayer.pdb
+D:\Strateji\faaliyet\faaliyet\obj\Debug\faaliyet.csprojResolveAssemblyReference.cache
+D:\Strateji\faaliyet\faaliyet\obj\Debug\faaliyet.dll
+D:\Strateji\faaliyet\faaliyet\obj\Debug\faaliyet.pdb
+C:\Users\enes\Google Drive\Strateji\faaliyet_yeni\faaliyet\bin\faaliyet.dll.config
+C:\Users\enes\Google Drive\Strateji\faaliyet_yeni\faaliyet\bin\faaliyet.dll
+C:\Users\enes\Google Drive\Strateji\faaliyet_yeni\faaliyet\bin\faaliyet.pdb
+C:\Users\enes\Google Drive\Strateji\faaliyet_yeni\faaliyet\bin\BusinnessLayer.dll
+C:\Users\enes\Google Drive\Strateji\faaliyet_yeni\faaliyet\bin\Container.dll
+C:\Users\enes\Google Drive\Strateji\faaliyet_yeni\faaliyet\bin\DataAccessLayer.dll
+C:\Users\enes\Google Drive\Strateji\faaliyet_yeni\faaliyet\bin\BusinnessLayer.pdb
+C:\Users\enes\Google Drive\Strateji\faaliyet_yeni\faaliyet\bin\Container.pdb
+C:\Users\enes\Google Drive\Strateji\faaliyet_yeni\faaliyet\bin\DataAccessLayer.pdb
+C:\Users\enes\Google Drive\Strateji\faaliyet_yeni\faaliyet\obj\Debug\faaliyet.csprojResolveAssemblyReference.cache
+C:\Users\enes\Google Drive\Strateji\faaliyet_yeni\faaliyet\obj\Debug\faaliyet.dll
+C:\Users\enes\Google Drive\Strateji\faaliyet_yeni\faaliyet\obj\Debug\faaliyet.pdb
